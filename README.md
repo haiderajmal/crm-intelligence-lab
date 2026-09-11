@@ -85,6 +85,3 @@ Muhammad Haider Ali - [GitHub profile](https://github.com/haiderajmal)
 
 This portfolio was developed with substantial assistance from OpenAI Codex under the repository owner's direction. AI assistance included initial architecture, source code, tests, and documentation. The owner is responsible for reviewing, running, understanding, and modifying the work before presenting it as evidence of personal programming ability. See [AI_ASSISTANCE.md](AI_ASSISTANCE.md) for the detailed disclosure and validation record.
 
-## License
-
-MIT
